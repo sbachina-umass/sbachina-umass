@@ -1,4 +1,7 @@
 ### Hi there 👋
+* 🌱 I'm currently enrolled in Spring 2023 semester in the online section
+* 🤔 I'm looking to collaborate on Assignments and Project
+* 💬 You can reach out to me through Email or LinkedIn
 
 <!--
 **sbachina-umass/sbachina-umass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
